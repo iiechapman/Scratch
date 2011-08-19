@@ -1,3 +1,4 @@
+package com.vindince.charSequence;
 
 public class ReverseString implements CharSequence{
 
